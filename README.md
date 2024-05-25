@@ -1,7 +1,14 @@
 # Webserv Project
 
 This project aims to develop a simple local HTTP server capable of hosting multiple ports, each with its own environment. We've dived into HTTP, TCP/IP (and its differences from UDP), and implemented the project using C++98. My focus was on ensuring smooth request/response behavior similar to real-life scenarios. Additionally, we explored CGI handling and various transfer-encoding scenarios.
-Throughout the project, we followed a simple Agile approach to our workflow, where I took on the role of both team leader and developer.
+
+# Collaborators
+
+  - [Andre Vieira](https://github.com/andremvsramos)
+  - [Tiago Machado](https://github.com/snowhp)
+  - [José Pedro](https://github.com/ZPedro99)
+  - [Luís Pereira](https://github.com/lubuper)
+  - [Tiago Pereira](https://github.com/t-pereira06)
 
 <details>
 <summary><h2>Table Of Contents</h2></summary>
@@ -423,10 +430,3 @@ We only add a new connection file descriptor if it does not exist previously. If
 - [web.notaduo.com/notes/29srs/edit](https://web.notaduo.com/notes/29srs/edit)
 </details>
 
-# Collaborators
-
-  - [Luís Pereira](https://github.com/lubuper)
-  - [José Pedro](https://github.com/ZPedro99)
-  - [Tiago Machado](https://github.com/snowhp)
-  - [Tiago Pereira](https://github.com/t-pereira06)
-  - [Rafael Soares](https://github.com/rafaSoares1)
